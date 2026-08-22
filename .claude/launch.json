@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["http-server", "minha-ide", "-p", "8901", "-c-1"],
+      "port": 8901,
+      "url": "http://localhost:8901"
+    }
+  ]
+}
